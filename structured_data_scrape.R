@@ -1,5 +1,4 @@
 # Prashant B. Bhuyan
-# is607 Week 6 Quiz
 
 install.packages("XML")
 require(XML)
